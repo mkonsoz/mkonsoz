@@ -24,15 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkonsoz&theme=dark" alt="mkonsoz" /></p>
 
-
-```v
-module dff(
-input d
-output reg q
-);
-
-always@(posedge clk)begin
-q<=d;
-end
-endmodule
-```
