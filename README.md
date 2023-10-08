@@ -24,3 +24,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkonsoz&theme=dark" alt="mkonsoz" /></p>
 
+
+```PHP
+<?php
+requaire 'mkonsoz.php'
+?>
+```
